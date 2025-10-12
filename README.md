@@ -130,15 +130,26 @@ All models and scripts are referenced in the paper and can be used or extended f
 If you use this code or models in your research, please cite:
 
 ```bibtex
-@inproceedings{ould-ouali2025_icnlsp,
-  title     = {Improving Synthetic Speech Quality via SSML Prosody Control},
-  author    = {Ould-Ouali, Nassima and Sani, Awais and Horstmann, Tim Luka and Dauvet, Jonah and Bueno, Ruben and Moulines, Eric},
-  booktitle = {Proceedings of the 8th International Conference on Natural Language and Speech Processing (ICNLSP)}, % TODO: vérifier l'intitulé exact utilisé par la conf
-  year      = {2025},
-  pages     = {XX--YY},   % TODO
-  publisher = {—},        % TODO 
-  address   = {—}         % TODO
+@inproceedings{ouali-etal-2025-improving,
+    title = "Improving {F}rench Synthetic Speech Quality via {SSML} Prosody Control",
+    author = "Ouali, Nassima Ould  and
+      Sani, Awais Hussain  and
+      Bueno, Ruben  and
+      Dauvet, Jonah  and
+      Horstmann, Tim Luka  and
+      Moulines, Eric",
+    editor = "Abbas, Mourad  and
+      Yousef, Tariq  and
+      Galke, Lukas",
+    booktitle = "Proceedings of the 8th International Conference on Natural Language and Speech Processing (ICNLSP-2025)",
+    month = aug,
+    year = "2025",
+    address = "Southern Denmark University, Odense, Denmark",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.icnlsp-1.30/",
+    pages = "302--314"
 }
+
 ```
 
 ---
